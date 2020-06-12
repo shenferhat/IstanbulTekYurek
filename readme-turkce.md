@@ -4,6 +4,8 @@
 
 [Web Panel ve Deprem Simülatörü Kaynak Kodu](https://github.com/shenferhat/IstanbulTekYurekWeb)
 
+[3 Dakikalık Uygulama Tanıtım Videosu](https://youtu.be/IHXcwA5wMpA)
+
 ## Deprem öncesi erken uyarı, deprem öncesi ve sonrası için organizasyon ve haberleşme projesi.
 ## Kullanılan teknolojiler: IoT, Blockchain, Gamification, Big Data.
 
@@ -126,3 +128,9 @@ Deprem öncesinde tatbikatlar, etkinlik ve organizasyonlar düzenlenir, bu organ
 ## Meshnet yapısı uzun yıllardır geliştiriliyor olmasına optimum bir çözümü olmayan bir haberleşme biçimidir, örnek: veri paketinin 3 hop sonrası (kişinin paketi alıp bir diğerine iletmesi durumu) iletilip iletilmediği, manipüle edilip edilmediği vb durumların kontrolü çok zordur. Bu bluetooth protokolü için kullanıcıların birbirine "açık alanda" tam olarak bluetooth menzilinin ucunda varsayarsak 16*3=48 metre sonrası paket kayıpları oluşur, ekstra enerji beslemesi + bluetooth 5 teknolojisi ile 100*3 = 300 metre sonrası paket kayıpları yaşanabilir.
 </br>
 Meshnet için 15 KM'ye yakın menzili ile en uygun olduğunu düşündüğümüz Lorawan teknolojisinin ise İstanbul gibi bir şehri haberleşebilir hale getirmenin masrafı sadece cihazlar için, yazılım hariç milyon dolarları bulmaktadır.
+
+# Takım: Afelyon
+Şen Ferhat
+Tansel Kaya
+Utku Genel
+Taha Hamad

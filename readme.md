@@ -4,6 +4,8 @@
 
 [Web Panel and Earthquake Simulator Source Code](https://github.com/shenferhat/IstanbulTekYurekWeb)
 
+[Application Introductions Video](https://youtu.be/IHXcwA5wMpA)
+
 ## Early warning before earthquake, organization and communication project for before and after earthquake.
 ## Technologies used: IoT, Blockchain, Gamification, Big Data.
 
@@ -124,3 +126,9 @@ Exercises, events and organizations are organized before the earthquake, users p
 ## The Meshnet structure is a form of communication that does not have an optimum solution to its development for many years, for example: it is very difficult to control whether the data packet is transmitted after 3 hops (when the person receives the package and transmits it to another). For this bluetooth protocol, if we assume that each other is in the "open area" exactly at the end of the bluetooth range, packet losses occur after 16 * 3 = 48 meters, with extra energy supply + bluetooth 5 technology, packet losses after 100 * 3 = 300 meters.
 </br>
 The Lorawan technology, which we think is the most suitable with the range close to 15 KM for the pledge, makes the cost of making a city such as Istanbul able to communicate only million dollars for devices, excluding software.
+
+# Team Afelyon
+Şen Ferhat
+Tansel Kaya
+Utku Genel
+Taha Hamad
