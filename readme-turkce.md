@@ -130,7 +130,4 @@ Deprem öncesinde tatbikatlar, etkinlik ve organizasyonlar düzenlenir, bu organ
 Meshnet için 15 KM'ye yakın menzili ile en uygun olduğunu düşündüğümüz Lorawan teknolojisinin ise İstanbul gibi bir şehri haberleşebilir hale getirmenin masrafı sadece cihazlar için, yazılım hariç milyon dolarları bulmaktadır.
 
 # Takım: Afelyon
-Şen Ferhat
-Tansel Kaya
-Utku Genel
-Taha Hamad
+Şen Ferhat, Tansel Kaya, Utku Genel, Taha Hamad
