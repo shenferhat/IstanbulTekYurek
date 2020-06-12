@@ -2,6 +2,8 @@
 
 [Click for Turkish](readme-turkce.md)
 
+[Web Panel and Earthquake Simulator Source Code](https://github.com/shenferhat/IstanbulTekYurekWeb)
+
 ## Early warning before earthquake, organization and communication project for before and after earthquake.
 ## Technologies used: IoT, Blockchain, Gamification, Big Data.
 

@@ -2,6 +2,8 @@
 
 [İngilizce için tıklayın](readme.md)
 
+[Web Panel ve Deprem Simülatörü Kaynak Kodu](https://github.com/shenferhat/IstanbulTekYurekWeb)
+
 ## Deprem öncesi erken uyarı, deprem öncesi ve sonrası için organizasyon ve haberleşme projesi.
 ## Kullanılan teknolojiler: IoT, Blockchain, Gamification, Big Data.
 
