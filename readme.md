@@ -43,7 +43,7 @@ According to the data of X, Y, Z from the gyroscope, information about whether t
 
 ### 3- A map is created with the locations of the buildings demolished in the center, accordingly, how many sample buildings have been demolished in which neighborhood, the districts with the need for emergency assistance are determined during the earthquake and in the first minutes after the earthquake.
 
-![Screenshot](webpanel.png)
+![Screenshot](webpanel1.png)
 
 # Lack of Task and Organization
 ## Problem 1: In the event of a disaster, everyone in the city is counted as a disaster victim

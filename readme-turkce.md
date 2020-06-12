@@ -45,7 +45,7 @@ Jiroskop'tan gelen X, Y, Z, verilerine göre binanın yıkılıp yıkılmadığ�
 
 ### 3- Merkezde yıkılan binaların lokasyonları ile beraber bir harita oluşur, buna göre hangi semtte kaç örnek binadan kaçı yıkılmış olduğu tespit edilir, acil yardıma ihtiyacı olanların yoğunlukta olduğu semtler depremden sırasında ve sonraki ilk dakikalarda belirlenir.
 
-![Screenshot](webpanel.png)
+![Screenshot](webpanel1.png)
 
 # Görev ve Organizasyon Eksikliği
 ## Sorun 1: Afet durumunda şehirdeki herkesin afetzede sayılması
