@@ -128,4 +128,4 @@ Exercises, events and organizations are organized before the earthquake, users p
 The Lorawan technology, which we think is the most suitable with the range close to 15 KM for the pledge, makes the cost of making a city such as Istanbul able to communicate only million dollars for devices, excluding software.
 
 # Team Afelyon
-Şen Ferhat, Tansel Kaya, Utku Genel, Taha Hamad
+Şen Ferhat, Tansel Kaya, Utku Genel
